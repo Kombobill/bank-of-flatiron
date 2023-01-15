@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "json-server --watch db.json --port 8001"
+  }
+},
+{
+  "name": "code-challenge-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billgates Kombo",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
