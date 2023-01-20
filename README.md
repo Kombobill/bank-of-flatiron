@@ -26,7 +26,7 @@ After unbundling the project:
 3. In a new terminal, run `npm start`. This will run your React app on port `8000`.
 
 Make sure to open
-[https://json-server-vercel-kombobill.vercel.app/](http://localhost:8001/transactions) in the
+[https://github.com/Kombobill/bank-of-flatiron](http://localhost:8001/transactions) in the
 browser to verify that your backend is working before you proceed!
 
 The app uses [Semantic UI](https://semantic-ui.com/) for styling. If you see any
